@@ -116,4 +116,12 @@ Sean R. Wilkinson, Oak Ridge National Laboratory
 
 Jonathan Guyer, National Institute of Standards and Technology
 
+Tom Boissonnet, Heinrich Heine University
+
+Prathamesh Deshmukh, UGC-DAE Consortium for Scientific Research
+
+Kelvin Lee, McMaster University
+
+Matt Young, University of New Hampshire, USA
+
 *The views and opinions expressed in this statement are the signatories' own and do not necessarily reflect the views and opinions of their institutions.*
