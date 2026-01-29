@@ -130,4 +130,6 @@ Jeremy L Thompson, University of Colorado, Boulder
 
 Micaela Parker, Alliance for Data Science and AI (ADSA)
 
+Stephen P. Cook, University of Bath, UK
+
 *The views and opinions expressed in this statement are the signatories' own and do not necessarily reflect the views and opinions of their institutions.*
