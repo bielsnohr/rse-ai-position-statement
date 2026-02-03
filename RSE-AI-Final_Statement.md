@@ -134,4 +134,6 @@ Stephen P. Cook, University of Bath, UK
 
 Luke V. Rasmussen, Northwestern University
 
+Joe S. T. Heffer, University of Sheffield
+
 *The views and opinions expressed in this statement are the signatories' own and do not necessarily reflect the views and opinions of their institutions.*
