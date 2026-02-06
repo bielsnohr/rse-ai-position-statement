@@ -142,4 +142,8 @@ Rosie Wood, The Alan Turing Institute, UK
 
 Ethan P. White, University of Florida, USA
 
+Caterina Doglioni, University of Manchester
+
+Matthew Bailey, University of York
+
 *The views and opinions expressed in this statement are the signatories' own and do not necessarily reflect the views and opinions of their institutions.*
