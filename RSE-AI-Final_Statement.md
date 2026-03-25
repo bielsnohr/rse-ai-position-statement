@@ -146,4 +146,6 @@ Caterina Doglioni, University of Manchester
 
 Matthew Bailey, University of York
 
+Richard Littauer, CURIOSS; Te Herenga Waka Victoria University of Wellington
+
 *The views and opinions expressed in this statement are the signatories' own and do not necessarily reflect the views and opinions of their institutions.*
